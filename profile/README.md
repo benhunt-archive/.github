@@ -1,4 +1,4 @@
-## Hi, I’m Ben (currently: @Bdhgit33)
+## Hi, I’m Ben (currently: @benhuntdev)
 
 **What you’ll find here:** personal Unity game development projects (portfolio + learning).
 
