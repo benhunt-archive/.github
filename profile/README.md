@@ -17,9 +17,11 @@ Game dev remains a genuine interest, and I may revisit these repositories later 
 ### Experiments & Prototypes
 - [Personal Project - Towerscape]([https://github.com/benhunt-archive/RepoName2](https://github.com/benhunt-archive/TowerScape)) — TowerScape is a simple, fast paced first-person parkour sprint down a vertical gauntlet. Dev Phase - [Design and Planning - (On Hold)]
 
-Other projects have been started but never came into full fluition (many junior level reasons), So I unfortunatly made the honest call of discontinuing entirly. These have now been removed. 
-♯ - Running for the stars
-♯ - Bullets & Balls
+Other projects have been started but never came into full fluition (many junior level reasons), So I unfortunatly made the honest call of discontinuing entirly. :- 
+ - Running for the stars
+ - Bullets & Balls
+
+### These have now been removed
 
 ### To see more about these: 
 
